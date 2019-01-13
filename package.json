@@ -39,7 +39,7 @@
     "import"
   ],
   "dependencies": {
-    "babel-plugin-root-import": "^5.1.0",
+    "babel-plugin-root-import": "^6.1.0",
     "eslint-import-resolver-node": "^0.2.1",
     "json5": "^0.5.0"
   },
